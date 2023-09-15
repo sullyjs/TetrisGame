@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/goeve/Downloads/8371202-8568197(2)/8371202-8568197/TETRIS/TetrisTemplate/Content/SpelFont.spritefont</SourceFile>
+  <SourceTime>2020-10-18T22:59:45.8547431+02:00</SourceTime>
+  <DestFile>C:/Users/goeve/Downloads/8371202-8568197(2)/8371202-8568197/TETRIS/TetrisTemplate/Content/bin/Windows/SpelFont.xnb</DestFile>
+  <DestTime>2020-10-18T23:00:15.406859+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
